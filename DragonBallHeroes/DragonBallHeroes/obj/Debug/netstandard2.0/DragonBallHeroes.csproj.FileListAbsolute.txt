@@ -1,0 +1,16 @@
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\bin\Debug\netstandard2.0\DragonBallHeroes.deps.json
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\bin\Debug\netstandard2.0\DragonBallHeroes.dll
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\bin\Debug\netstandard2.0\DragonBallHeroes.pdb
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.csproj.AssemblyReference.cache
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\Vistas\Lista.xaml.g.cs
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.AssemblyInfoInputs.cache
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.AssemblyInfo.cs
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.csproj.CoreCompileInputs.cache
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.dll
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\refint\DragonBallHeroes.dll
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\DragonBallHeroes.pdb
+C:\Users\ciber\Documents\DragonBallHeroes\DragonBallHeroes\DragonBallHeroes\obj\Debug\netstandard2.0\ref\DragonBallHeroes.dll
